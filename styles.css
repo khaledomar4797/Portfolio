@@ -1,0 +1,59 @@
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+footer {
+	background-color: #555555;
+	padding: 25px;
+}
+
+.jumbotron {
+	padding-top: 10%;
+	padding-bottom: 30%;
+}
+
+.section-padding {
+	padding-bottom: 120px;
+}
+
+#top-half {
+	background-image: url(./assets/top-background.jpg) !important;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar, #intro 
+{
+	background-color: transparent;
+	border: none;
+	color: white;
+}
+#about {
+	font-size: 1.6em;
+}
+
+#work>.row>.col-sm-4>a>img {
+	border: solid 0.1em black;
+}
+
+#contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.nav-font-size {
+	font-size: 1.3em;
+}
+
+.social-media-icon {
+	font-size: 50px;
+	color: black;
+	padding: 10px;
+}
+
+#section-divider {
+	height: 1em;
+	background-color: #555555;
+	margin-bottom: 1em;
+}
